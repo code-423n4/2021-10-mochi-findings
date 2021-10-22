@@ -1,0 +1,9 @@
+{
+  "contest": "Mochi contest",
+  "handle": "pants",
+  "address": "0xdf8E030c3BE481be8aAd7D40F34A09524269266A",
+  "risk": "G",
+  "title": "create array of size x>0 and non of the entries are used",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2021-10-mochi-findings/issues/18"
+}
