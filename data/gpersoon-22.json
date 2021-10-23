@@ -1,0 +1,9 @@
+{
+  "contest": "Mochi contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "Link between _id and asset not allways checked",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2021-10-mochi-findings/issues/22"
+}
