@@ -1,0 +1,9 @@
+{
+  "contest": "Mochi contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "registerAsset() can overwrite _assetClass value",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2021-10-mochi-findings/issues/20"
+}
