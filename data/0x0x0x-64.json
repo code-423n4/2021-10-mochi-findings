@@ -1,0 +1,9 @@
+{
+  "contest": "Mochi contest",
+  "handle": "0x0x0x",
+  "address": "0x3Ca8C469ff8156eeBB1518FA631bf8ebc5EE0688",
+  "risk": "G",
+  "title": "Cached length of arrays to avoid loading them repeadetly",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2021-10-mochi-findings/issues/64"
+}
