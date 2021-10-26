@@ -1,0 +1,9 @@
+{
+  "contest": "Mochi contest",
+  "handle": "0x0x0x",
+  "address": "0x3Ca8C469ff8156eeBB1518FA631bf8ebc5EE0688",
+  "risk": "G",
+  "title": "flashFee includes operations between constants and further tips",
+  "issueId": 78,
+  "issueUrl": "https://github.com/code-423n4/2021-10-mochi-findings/issues/78"
+}
