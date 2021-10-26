@@ -1,0 +1,9 @@
+{
+  "contest": "Mochi contest",
+  "handle": "jonah1005",
+  "address": "0x501eE2A368f1E58C736dd7cE3b494B33c3158c68",
+  "risk": "1",
+  "title": "misuse amount as increasing debt in the vault contract",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2021-10-mochi-findings/issues/68"
+}
