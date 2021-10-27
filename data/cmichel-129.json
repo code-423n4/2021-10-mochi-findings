@@ -1,0 +1,9 @@
+{
+  "contest": "Mochi contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Debt accrual is path-dependant and inaccurate",
+  "issueId": 129,
+  "issueUrl": "https://github.com/code-423n4/2021-10-mochi-findings/issues/129"
+}
