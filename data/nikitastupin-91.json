@@ -1,0 +1,9 @@
+{
+  "contest": "Mochi contest",
+  "handle": "nikitastupin",
+  "address": "0x84F9079a9A39ae80Cf9DEE65a0E316B1a897684A",
+  "risk": "3",
+  "title": "[`DutchAuctionLiquidator.sol`] The return value of an external `transfer` call is not checked",
+  "issueId": 91,
+  "issueUrl": "https://github.com/code-423n4/2021-10-mochi-findings/issues/91"
+}
