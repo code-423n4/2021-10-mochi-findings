@@ -1,0 +1,9 @@
+{
+  "contest": "Mochi contest",
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "3",
+  "title": "`DutchAuctionLiquidator.settleLiquidation()` Does Not Operate On Non-Standard ERC20 Tokens",
+  "issueId": 93,
+  "issueUrl": "https://github.com/code-423n4/2021-10-mochi-findings/issues/93"
+}
