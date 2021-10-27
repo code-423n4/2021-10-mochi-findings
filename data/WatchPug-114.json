@@ -1,0 +1,9 @@
+{
+  "contest": "Mochi contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "`FeePoolV0.sol#distributeMochi()` will unexpectedly flush `treasuryShare`, causing the protocol fee cannot be properly accounted for and collected",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2021-10-mochi-findings/issues/114"
+}
