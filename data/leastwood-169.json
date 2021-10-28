@@ -1,0 +1,9 @@
+{
+  "contest": "Mochi contest",
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "1",
+  "title": "`MochiEngine.sol` Does Not Emit Events For State Changing Functions",
+  "issueId": 169,
+  "issueUrl": "https://github.com/code-423n4/2021-10-mochi-findings/issues/169"
+}
